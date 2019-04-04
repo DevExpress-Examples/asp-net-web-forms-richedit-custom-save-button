@@ -2,7 +2,7 @@
 *Files to look at*:
 
 * [Default.aspx](./CS/Default.aspx) (VB: [Default.aspx](./VB/Default.aspx))
-* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx](./VB/Default.aspx))
+* [Default.aspx.cs](./CS/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/Default.aspx.vb))
 * [JavaScript.js](./CS/JavaScript.js) (VB: [JavaScript.js](./VB/JavaScript.js))
 <!-- default file list end -->
 # How to create a custom save button in ASPxRichEdit with automatic enabling/disabling
