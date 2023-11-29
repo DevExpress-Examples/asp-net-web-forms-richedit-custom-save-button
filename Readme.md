@@ -10,7 +10,7 @@ This example demonstrates how to create a custom **Save** button that is disable
 
 ## Implementation Details
 
-1. Create a function where call the [FileSaveCommand.getState](https://docs.devexpress.com/AspNet/js-FileSaveCommand.getState) method to get the state of the default **Save** button.
+1. Create a function where you call the [FileSaveCommand.getState](https://docs.devexpress.com/AspNet/js-FileSaveCommand.getState) method to get the state of the default **Save** button.
 2. Apply the availability state of the default button to your custom **Save** button.
 
 ```jscript
