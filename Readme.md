@@ -6,7 +6,7 @@
 # Rich Text Editor for ASP.NET Web Forms - How to automatically change the availability of a custom Save button
 
 
-This example demonstrates how to create a custom **Save** button that is disabled when the document has no changes; ans is enabled when the document has been changed.
+This example demonstrates how to create a custom **Save** button that is disabled when the document has no changes and is enabled when the document is changed.
 
 ## Implementation Details
 
